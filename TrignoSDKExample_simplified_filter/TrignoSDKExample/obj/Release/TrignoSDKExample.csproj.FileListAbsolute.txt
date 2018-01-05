@@ -1,0 +1,17 @@
+J:\Data\EW4\EW4\EW4App\WixBin\SDK Samples\Csharp\TrignoSDKExample\TrignoSDKExample\bin\Release\TrignoSDKExample.exe
+J:\Data\EW4\EW4\EW4App\WixBin\SDK Samples\Csharp\TrignoSDKExample\TrignoSDKExample\bin\Release\TrignoSDKExample.pdb
+J:\Data\EW4\EW4\EW4App\WixBin\SDK Samples\Csharp\TrignoSDKExample\TrignoSDKExample\obj\Release\TrignoSDKExample.MainForm.resources
+J:\Data\EW4\EW4\EW4App\WixBin\SDK Samples\Csharp\TrignoSDKExample\TrignoSDKExample\obj\Release\TrignoSDKExample.Properties.Resources.resources
+J:\Data\EW4\EW4\EW4App\WixBin\SDK Samples\Csharp\TrignoSDKExample\TrignoSDKExample\obj\Release\TrignoSDKExample.csproj.GenerateResource.Cache
+J:\Data\EW4\EW4\EW4App\WixBin\SDK Samples\Csharp\TrignoSDKExample\TrignoSDKExample\obj\Release\TrignoSDKExample.exe
+J:\Data\EW4\EW4\EW4App\WixBin\SDK Samples\Csharp\TrignoSDKExample\TrignoSDKExample\obj\Release\TrignoSDKExample.pdb
+E:\chengxu\TrignoSDKExample_simplified\TrignoSDKExample\obj\Release\TrignoSDKExample.exe
+E:\chengxu\TrignoSDKExample_simplified\TrignoSDKExample\obj\Release\TrignoSDKExample.pdb
+C:\Users\L\Desktop\TrignoSDKExample_simplified\TrignoSDKExample\obj\Release\TrignoSDKExample.exe
+C:\Users\L\Desktop\TrignoSDKExample_simplified\TrignoSDKExample\obj\Release\TrignoSDKExample.pdb
+C:\Users\L\Desktop\TrignoSDKExample_simplified\TrignoSDKExample\bin\Release\TrignoSDKExample.exe
+C:\Users\L\Desktop\TrignoSDKExample_simplified\TrignoSDKExample\bin\Release\TrignoSDKExample.pdb
+C:\Users\L\Desktop\TrignoSDKExample_simplified\TrignoSDKExample\obj\Release\TrignoSDKExample.csprojResolveAssemblyReference.cache
+C:\Users\L\Desktop\TrignoSDKExample_simplified\TrignoSDKExample\obj\Release\TrignoSDKExample.MainForm.resources
+C:\Users\L\Desktop\TrignoSDKExample_simplified\TrignoSDKExample\obj\Release\TrignoSDKExample.Properties.Resources.resources
+C:\Users\L\Desktop\TrignoSDKExample_simplified\TrignoSDKExample\obj\Release\TrignoSDKExample.csproj.GenerateResource.Cache

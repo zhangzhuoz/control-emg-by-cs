@@ -1,0 +1,46 @@
+C:\Program Files (x86)\Delsys, Inc\EMGworks 4.3.2\SDK Samples\Csharp\TrignoSDKExample\TrignoSDKExample\bin\Debug\TrignoSDKExample.exe
+C:\Program Files (x86)\Delsys, Inc\EMGworks 4.3.2\SDK Samples\Csharp\TrignoSDKExample\TrignoSDKExample\bin\Debug\TrignoSDKExample.pdb
+C:\Program Files (x86)\Delsys, Inc\EMGworks 4.3.2\SDK Samples\Csharp\TrignoSDKExample\TrignoSDKExample\obj\Debug\TrignoSDKExample.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Delsys, Inc\EMGworks 4.3.2\SDK Samples\Csharp\TrignoSDKExample\TrignoSDKExample\obj\Debug\TrignoSDKExample.MainForm.resources
+C:\Program Files (x86)\Delsys, Inc\EMGworks 4.3.2\SDK Samples\Csharp\TrignoSDKExample\TrignoSDKExample\obj\Debug\TrignoSDKExample.Properties.Resources.resources
+C:\Program Files (x86)\Delsys, Inc\EMGworks 4.3.2\SDK Samples\Csharp\TrignoSDKExample\TrignoSDKExample\obj\Debug\TrignoSDKExample.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Delsys, Inc\EMGworks 4.3.2\SDK Samples\Csharp\TrignoSDKExample\TrignoSDKExample\obj\Debug\TrignoSDKExample.exe
+C:\Program Files (x86)\Delsys, Inc\EMGworks 4.3.2\SDK Samples\Csharp\TrignoSDKExample\TrignoSDKExample\obj\Debug\TrignoSDKExample.pdb
+E:\chengxu\TrignoSDKExample_simplified\TrignoSDKExample\obj\Debug\TrignoSDKExample.exe
+E:\chengxu\TrignoSDKExample_simplified\TrignoSDKExample\obj\Debug\TrignoSDKExample.pdb
+E:\chengxu\TrignoSDKExample_simplified\TrignoSDKExample\obj\Debug\TrignoSDKExample.csprojResolveAssemblyReference.cache
+E:\chengxu\TrignoSDKExample_simplified\TrignoSDKExample\obj\Debug\TrignoSDKExample.MainForm.resources
+E:\chengxu\TrignoSDKExample_simplified\TrignoSDKExample\obj\Debug\TrignoSDKExample.Properties.Resources.resources
+E:\chengxu\TrignoSDKExample_simplified\TrignoSDKExample\obj\Debug\TrignoSDKExample.csproj.GenerateResource.Cache
+E:\chengxu\TrignoSDKExample_simplified\TrignoSDKExample\bin\Debug\TrignoSDKExample.exe
+E:\chengxu\TrignoSDKExample_simplified\TrignoSDKExample\bin\Debug\TrignoSDKExample.pdb
+C:\Users\L\Desktop\TrignoSDKExample_simplified\TrignoSDKExample\obj\Debug\TrignoSDKExample.exe
+C:\Users\L\Desktop\TrignoSDKExample_simplified\TrignoSDKExample\obj\Debug\TrignoSDKExample.pdb
+C:\Users\L\Desktop\TrignoSDKExample_simplified\TrignoSDKExample\bin\Debug\TrignoSDKExample.exe
+C:\Users\L\Desktop\TrignoSDKExample_simplified\TrignoSDKExample\bin\Debug\TrignoSDKExample.pdb
+C:\Users\L\Desktop\TrignoSDKExample_simplified\TrignoSDKExample\obj\Debug\TrignoSDKExample.csprojResolveAssemblyReference.cache
+C:\Users\L\Desktop\TrignoSDKExample_simplified\TrignoSDKExample\obj\Debug\TrignoSDKExample.MainForm.resources
+C:\Users\L\Desktop\TrignoSDKExample_simplified\TrignoSDKExample\obj\Debug\TrignoSDKExample.Properties.Resources.resources
+C:\Users\L\Desktop\TrignoSDKExample_simplified\TrignoSDKExample\obj\Debug\TrignoSDKExample.csproj.GenerateResource.Cache
+C:\Users\L\Desktop\TrignoSDKExample_simplified\TrignoSDKExample\bin\Debug\TrignoSDKExample.exe.config
+H:\TrignoSDKExample_simplified\TrignoSDKExample\bin\Debug\TrignoSDKExample.exe.config
+H:\TrignoSDKExample_simplified\TrignoSDKExample\obj\Debug\TrignoSDKExample.exe
+H:\TrignoSDKExample_simplified\TrignoSDKExample\obj\Debug\TrignoSDKExample.pdb
+C:\Users\张琢之de\Desktop\EMGcontrol\TrignoSDKExample_simplified\TrignoSDKExample\bin\Debug\TrignoSDKExample.exe.config
+C:\Users\张琢之de\Desktop\EMGcontrol\TrignoSDKExample_simplified\TrignoSDKExample\obj\Debug\TrignoSDKExample.exe
+C:\Users\张琢之de\Desktop\EMGcontrol\TrignoSDKExample_simplified\TrignoSDKExample\obj\Debug\TrignoSDKExample.pdb
+C:\Users\张琢之de\Desktop\EMGcontrol\TrignoSDKExample_simplified\TrignoSDKExample\bin\Debug\TrignoSDKExample.exe
+C:\Users\张琢之de\Desktop\EMGcontrol\TrignoSDKExample_simplified\TrignoSDKExample\bin\Debug\TrignoSDKExample.pdb
+C:\Users\张琢之de\Desktop\EMGcontrol\TrignoSDKExample_simplified\TrignoSDKExample\obj\Debug\TrignoSDKExample.csprojResolveAssemblyReference.cache
+C:\Users\张琢之de\Desktop\EMGcontrol\TrignoSDKExample_simplified\TrignoSDKExample\obj\Debug\TrignoSDKExample.MainForm.resources
+C:\Users\张琢之de\Desktop\EMGcontrol\TrignoSDKExample_simplified\TrignoSDKExample\obj\Debug\TrignoSDKExample.Properties.Resources.resources
+C:\Users\张琢之de\Desktop\EMGcontrol\TrignoSDKExample_simplified\TrignoSDKExample\obj\Debug\TrignoSDKExample.csproj.GenerateResource.Cache
+C:\Users\张琢之de\Desktop\EMGcontrol\TrignoSDKExample_simplified_filter\TrignoSDKExample\bin\Debug\TrignoSDKExample.exe.config
+C:\Users\张琢之de\Desktop\EMGcontrol\TrignoSDKExample_simplified_filter\TrignoSDKExample\obj\Debug\TrignoSDKExample.exe
+C:\Users\张琢之de\Desktop\EMGcontrol\TrignoSDKExample_simplified_filter\TrignoSDKExample\obj\Debug\TrignoSDKExample.pdb
+C:\Users\张琢之de\Desktop\EMGcontrol\TrignoSDKExample_simplified_filter\TrignoSDKExample\bin\Debug\TrignoSDKExample.exe
+C:\Users\张琢之de\Desktop\EMGcontrol\TrignoSDKExample_simplified_filter\TrignoSDKExample\bin\Debug\TrignoSDKExample.pdb
+C:\Users\张琢之de\Desktop\EMGcontrol\TrignoSDKExample_simplified_filter\TrignoSDKExample\obj\Debug\TrignoSDKExample.csprojResolveAssemblyReference.cache
+C:\Users\张琢之de\Desktop\EMGcontrol\TrignoSDKExample_simplified_filter\TrignoSDKExample\obj\Debug\TrignoSDKExample.MainForm.resources
+C:\Users\张琢之de\Desktop\EMGcontrol\TrignoSDKExample_simplified_filter\TrignoSDKExample\obj\Debug\TrignoSDKExample.Properties.Resources.resources
+C:\Users\张琢之de\Desktop\EMGcontrol\TrignoSDKExample_simplified_filter\TrignoSDKExample\obj\Debug\TrignoSDKExample.csproj.GenerateResource.Cache
